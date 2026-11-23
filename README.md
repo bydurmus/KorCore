@@ -13,7 +13,7 @@
 
 **Bunca zaman dev ekran kartlarına ve bulut aboneliklerine harcanan para gerçekten şart mıydı, yoksa tek eksik düzgün bir programlama mıydı?**
 
-[Kurulum](#-kurulum) · [Desteklenen Modeller](#-desteklenen-modeller) · [Ölçülen Hızlar](#-ölçülen-hız-ve-stres-testleri) · [API Uç Noktaları](#-yerel-api-uç-noktaları-12700111434) · [korkuttech.com](https://korkuttech.com)
+[İndir](https://drive.google.com/drive/folders/1_K3rMYqzaHTXIPoesEmhpOyCb7gB0Qx_?usp=sharing) · [Kurulum](#-kurulum) · [Desteklenen Modeller](#-desteklenen-modeller) · [Ölçülen Hızlar](#-ölçülen-hız-ve-stres-testleri) · [API Uç Noktaları](#-yerel-api-uç-noktaları-12700111434) · [korkuttech.com](https://korkuttech.com)
 
 </div>
 
@@ -90,7 +90,7 @@ Hazır bir motorun (`llama.cpp`, `Ollama` vb.) üzerine giydirilmiş bir arayüz
 
 ## Kurulum
 
-**Releases** sayfasından size uygun paketi indirin:
+[Google Drive İndirme Klasörü](https://drive.google.com/drive/folders/1_K3rMYqzaHTXIPoesEmhpOyCb7gB0Qx_?usp=sharing) üzerinden size uygun paketi indirin:
 
 | Paket | Açıklama |
 | :--- | :--- |
